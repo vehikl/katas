@@ -11,3 +11,4 @@ Our collection of katas
 - [Bowling](https://github.com/vehikl/BowlingJs)
 - [RobotName](https://github.com/vehikl/RobotNameJs)
 - [Change](https://github.com/vehikl/ChangeJs)
+- [TheatricalPlayers](https://github.com/vehikl/TheatricalPlayersJs)
