@@ -19,4 +19,4 @@ docker-compose exec app composer install
 
 cp -R ~/Scripts/katas/tennis/files/idea ~/Code/katas/tennis/php/.idea
 
-pstorm ~/Code/katas/tennis/php
+pstorm ~/Code/katas/tennis/php || phpstorm ~/Code/katas/tennis/php
