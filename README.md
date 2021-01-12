@@ -22,10 +22,10 @@ Each kata has dedicated scripts to setup and tear down the project.
 It is important to clone this repository at `~/Scripts`, otherwise the scripts might not work properly.
 
 ### Setting up a Kata
-`bash ./<Kata Name>/create.sh`
+`bash ~/Scripts/<Kata Name>/create.sh`
 
 ### Tearing down a Kata
-`bash ./<Kata Name>/destroy.sh`
+`bash ~/Scripts/<Kata Name>/destroy.sh`
 
 
 ## Recommendations 
