@@ -16,3 +16,5 @@ mutagen sync create --name=racing-car \
 docker-compose up -d app
 
 docker-compose exec app composer install
+
+cp -R ./files/idea ~/Code/katas/racing-car/php/.idea
