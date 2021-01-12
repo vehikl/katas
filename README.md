@@ -17,6 +17,10 @@ Our collection of Katas with Quick Setup Scripts to get it immediately ready to 
 
 Each kata has dedicated scripts to setup and tear down the project. 
 
+### First time setup 
+
+It is important to clone this repository at `~/Scripts`, otherwise the scripts might not work properly.
+
 ### Setting up a Kata
 `bash ./<Kata Name>/create.sh`
 
