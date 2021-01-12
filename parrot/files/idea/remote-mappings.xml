@@ -3,7 +3,7 @@
   <component name="RemoteMappingsManager">
     <list>
       <list>
-        <remote-mappings server-id="php@fd1290a3-5101-4832-8279-d8d72363c3e0">
+        <remote-mappings server-id="php@90336c62-4145-4302-882d-9b897869e25d">
           <settings>
             <list>
               <mapping local-root="$PROJECT_DIR$" remote-root="/var/www" />

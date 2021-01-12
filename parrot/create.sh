@@ -17,6 +17,6 @@ docker-compose up -d app
 
 docker-compose exec app composer install
 
-cp -R ~/Scripts/katas/parrot/PHP/idea ~/Code/katas/parrot/PHP/.idea
+cp -R ~/Scripts/katas/parrot/files/idea ~/Code/katas/parrot/PHP/.idea
 
 pstorm ~/Code/katas/parrot/PHP || phpstorm ~/Code/katas/parrot/PHP

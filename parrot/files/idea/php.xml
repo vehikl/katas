@@ -100,7 +100,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="fd1290a3-5101-4832-8279-d8d72363c3e0" name="app" home="docker-compose://DATA" debugger_id="php.debugger.XDebug" debugger_extension="xdebug.so">
+      <interpreter id="90336c62-4145-4302-882d-9b897869e25d" name="app" home="docker-compose://DATA" debugger_id="php.debugger.XDebug" debugger_extension="xdebug">
         <configuration_options>
           <configuration_option name="xdebug.mode" value="debug,coverage" />
         </configuration_options>
