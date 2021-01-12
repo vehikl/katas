@@ -28,6 +28,11 @@ It is important to clone this repository at `~/Scripts`, otherwise the scripts m
 `bash ./<Kata Name>/destroy.sh`
 
 
+## Recommendations 
+
+Although not required, the usage of PHPStorm is recommended, since these scripts will also automatically setup 
+Interpreter and Test Framework configurations for PHPStorm.   
+
 ## Our favorite Katas
 
 ### PHP
