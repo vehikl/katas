@@ -4,7 +4,6 @@ mutagen sync terminate tennis
 
 cd ~/Scripts/katas/tennis
 
-docker-compose down
-docker volume rm tennis_project
+docker-compose down --volumes
 
 rm -rf ~/Code/katas/tennis
