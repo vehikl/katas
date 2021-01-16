@@ -16,6 +16,8 @@ mutagen sync create --name=tennis \
     --default-file-mode=666 \
     ${SOURCE_DIR}/php docker://tennis-files/project
 
+sleep 5
+
 docker-compose up -d app
 
 docker-compose exec app composer install
