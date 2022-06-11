@@ -39,6 +39,7 @@ Interpreter and Test Framework configurations for PHPStorm.
 
 - [Gilded Rose](https://github.com/vehikl/GildedRosePhp)
 - [Tennis2](https://github.com/vehikl/Tennis2Php)
+- [Corner Store](https://github.com/vehikl/CornerStorePhp)
 
 ### JS
 
